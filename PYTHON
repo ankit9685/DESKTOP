@@ -3,3 +3,7 @@ PRINT("H" IN STRING S1)
 A=10
 B=20
 PRINT(A>B)
+x=15
+y=20
+print(x is not y,x==y)
+print(x is y, x|y)
